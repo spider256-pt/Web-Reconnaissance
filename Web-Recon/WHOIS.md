@@ -34,7 +34,7 @@
 ## Using WHOIS:
 
  1. sudo apt install whois -y
- 2. whois <Domain-name>
+ 2. whois `Domain-name`
 
 
 
